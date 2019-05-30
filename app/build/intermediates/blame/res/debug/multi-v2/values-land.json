@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\prateek\\Desktop\\BCA\\FinalProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\prateek\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\678a7e5800bb7b49d29863a6c646bc1c\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\prateek\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\016e76a1e11d372f55ef43768874e3b9\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "476",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "653"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\prateek\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-inappmessaging-display-17.1.0.aar\\40ac015535d529523b91e29232adb178\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,131",
+                        "endColumns": "75,71",
+                        "endOffsets": "126,198"
+                    },
+                    "to": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "328,404",
+                        "endColumns": "75,71",
+                        "endOffsets": "399,471"
+                    }
+                }
+            ]
+        }
+    ]
+}
